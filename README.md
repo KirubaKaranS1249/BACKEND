@@ -1,2 +1,2 @@
 # BACKEND
-CORE JAVA All concepts
+ADVANCED JAVA All concepts
